@@ -1,0 +1,30 @@
+{
+  "REQ": {
+    "paragraphCount": 298,
+    "letterCount": 178
+  },
+  "DSP": {
+    "paragraphCount": 192,
+    "letterCount": 137
+  },
+  "INF": {
+    "paragraphCount": 2155,
+    "letterCount": 296
+  },
+  "PRS": {
+    "paragraphCount": 812,
+    "letterCount": 248
+  },
+  "MNT": {
+    "paragraphCount": 356,
+    "letterCount": 255
+  },
+  "INS": {
+    "paragraphCount": 0,
+    "letterCount": 0
+  },
+  "NEG": {
+    "paragraphCount": 10,
+    "letterCount": 9
+  }
+}
